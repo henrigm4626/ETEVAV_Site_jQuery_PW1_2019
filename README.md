@@ -33,6 +33,7 @@ O site em questão é composto por 9 páginas no total, sendo elas:
 📞**Contato (contato.html)**
 - Informações de contato.
 - Campo para entrar em contato.
+
 OBS: A página de contato é apenas conceitual.
 
 **All**
