@@ -1,4 +1,4 @@
-# ETEVAV Site jQuery - Programação Web 1 [2019]
+# ETEVAV Site jQuery - Programação Web I [2019]
 
 Projeto de um site sobre a escola utilizando um template de jQuery, contendo informações como: lista de cursos oferecidos e edições anteri do circuito das profissões. Foi realizado em 2019 no contexto da disciplina "Programação Web I" pelos alunos André Luís A. Rodrigues, Davi R. V. do Nascimento, Diogo M. Sampaio e Henrique G. Marques, durante o curso "Técnico em Desenvolvimento de Sistemas" na ETEC.
 
